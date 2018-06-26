@@ -6,5 +6,6 @@ text-align: center;
 div.header {
 background-color: pink;
   height: 300px;
+  padding: 30px;
 }
 
