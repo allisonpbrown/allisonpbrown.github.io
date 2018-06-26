@@ -7,7 +7,7 @@ div.header {
 background-color: pink;
   height: 150px;
   padding: 30px;
-  corner-radius: 20px;
+  border-radius: 20px 10px 20px 10px;
 }
 
 body {
